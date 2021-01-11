@@ -1,0 +1,26 @@
+.sign-in-form{
+    border: 7px solid white;
+    border-radius: 10px;
+    width: 300px;
+    height: 600px;
+    padding: 20px;
+    background-color: #ff8cc2;
+    margin: 0 auto;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+label, input,button{
+    margin-top: 10px;
+}
+input{
+    width: 250px;
+    height: 30px;
+    border: none;
+    padding: 3px;
+}
+.signin-button{
+    padding: 10px;
+    background-color: whitesmoke;
+    border: none;
+}
